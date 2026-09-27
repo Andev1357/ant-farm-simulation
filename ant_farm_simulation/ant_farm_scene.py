@@ -3,7 +3,6 @@ from ant_farm_simulation.ant import Ant
 from ant_farm_simulation.food_manager import FoodManager
 from ant_farm_simulation.pheromone_field import PheromoneField
 from ant_farm_simulation.ant_pheromone_dropper import AntPheromoneDropper
-from ant_farm_simulation.parallel_ant_processor import ParallelAntProcessor
 from scene import Scene
 from vector2 import Vector2
 
